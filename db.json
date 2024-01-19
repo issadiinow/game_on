@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Sony PS5",
+        "description": "The Sony PS5 sets gaming standards with cutting-edge tech, stunning graphics, immersive gameplay, and sleek design, symbolizing innovation in gaming.",
+        "image": "images/ps5Cutout.png",
+        "price": 499
+      },
+      {
+        "id": 2,
+        "name": "Nintendo Switch",
+        "description": "The Nintendo Switch: a versatile gaming marvel with a unique hybrid design.",
+        "image": "images/switchCutout.png",
+        "price": 499
+      },
+      {
+        "id": 3,
+        "name": "Xbox Series S",
+        "description": "The Xbox Series S, an innovation from Microsoft, delivers high-performance gaming in a compact form.",
+        "image": "images/xboxCutout.png",
+        "price": 499
+      }
+    ]
+  }
+  
